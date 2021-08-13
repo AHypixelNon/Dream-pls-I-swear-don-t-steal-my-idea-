@@ -1,0 +1,8 @@
+name: Dream
+version: ${project.version}
+main: com.ahypixelnon.main.Main
+api-version: 1.16
+authors: [ AHypixelNon ]
+description: Train to become dream
+commands:
+  arena:

@@ -1,0 +1,9 @@
+com\ahypixelnon\main\Config.class
+com\ahypixelnon\main\Game.class
+com\ahypixelnon\main\Manager.class
+com\ahypixelnon\main\Main.class
+com\ahypixelnon\main\GameState.class
+com\ahypixelnon\main\Arena.class
+com\ahypixelnon\main\GameListener.class
+com\ahypixelnon\main\Countdown.class
+com\ahypixelnon\main\ArenaCommand.class
